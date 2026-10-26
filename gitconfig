@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = romanhrdlovic@gmail.com
+	name = Roman Hrdlovic
